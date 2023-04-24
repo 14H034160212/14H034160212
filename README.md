@@ -48,3 +48,6 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 - [17 November 2022] Our <A href="https://github.com/Strong-AI-Lab/PARARULE-Plus"><FONT face="Bitstream Vera Sans">PARARULE Plus</FONT></A> (Multi-step deductive reasoning) and <A href="https://github.com/Strong-AI-Lab/AbductionRules"><FONT face="Bitstream Vera Sans">AbductionRules</FONT></A> (Abductive reasoning) datasets are collected as part of <A href="https://www.logitorch.ai/"><FONT face="Bitstream Vera Sans">LogiTorch.ai</FONT></A>. <br/>
 
 - [09 January 2022] One of the contributers to an open source tool for simplifying bibtex called "SimBiber" [<A href="https://github.com/MLNLP-World/SimBiber"><FONT face="Bitstream Vera Sans">GitHub Link</FONT></A>]. <br />
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=14H034160212&show_icons=true&theme=radical)
