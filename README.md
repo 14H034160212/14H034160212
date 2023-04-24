@@ -50,4 +50,6 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 - [09 January 2022] One of the contributers to an open source tool for simplifying bibtex called "SimBiber" [<A href="https://github.com/MLNLP-World/SimBiber"><FONT face="Bitstream Vera Sans">GitHub Link</FONT></A>]. <br />
 
 
-![Qiming Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=14H034160212&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=14H034160212&show_icons=true&theme=radical" alt="Qiming Bao's GitHub stats"/>
+</p>
