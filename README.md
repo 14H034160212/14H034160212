@@ -21,9 +21,9 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 
 <h4 align="center">Papers/Projects</h4>
 
-- [10 April 2023] Our paper (Qianqian Qi, **Qiming Bao**, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock) "A Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge" has been accepted by <A href="https://openreview.net/group?id=ICLR.cc/2023/TinyPapers"><FONT face="Bitstream Vera Sans">ICLR-23 TinyPapers</FONT></A>. [<A href="https://openreview.net/forum?id=hli7A0ioiS_"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>]<br />
+- [10 April 2023] Our paper (Qianqian Qi, **Qiming Bao**, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock) "A Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge" has been accepted by <A href="https://openreview.net/group?id=ICLR.cc/2023/TinyPapers"><FONT face="Bitstream Vera Sans">ICLR-23 TinyPapers</FONT></A> [<A href="https://openreview.net/forum?id=hli7A0ioiS_"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>].<br />
   
-- [01 March 2023] Our paper (Neset Tan, Alex Peng, Joshua Bensemann, **Qiming Bao**, Tim Hartill, Mark Gahegan, and Michael Witbrock) "Input-length-shortening and text generation via attention values" has been accepted by <A href="https://www.emc2-ai.org/aaai-23"><FONT face="Bitstream Vera Sans">AAAI-EMC^2-23</FONT></A>. [<A href="https://arxiv.org/abs/2303.07585"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>]<br />
+- [01 March 2023] Our paper (Neset Tan, Alex Peng, Joshua Bensemann, **Qiming Bao**, Tim Hartill, Mark Gahegan, and Michael Witbrock) "Input-length-shortening and text generation via attention values" has been accepted by <A href="https://www.emc2-ai.org/aaai-23"><FONT face="Bitstream Vera Sans">AAAI-EMC^2-23</FONT></A> [<A href="https://arxiv.org/abs/2303.07585"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>].<br />
     
 - [23 January 2023] Our paper (Neset Ozkan TAN, Trung Nguyen, Josh Bensemann, Alex Peng, **Qiming Bao**, Yang Chen, Mark Gahegan and Michael Witcbrock) "Multi2Claim: Generating Scientific Claims from Multi-Choice Questions for Scientific Fact-Checking" has been accepted and published by <A href="https://2023.eacl.org/"><FONT face="Bitstream Vera Sans">EACL-23</FONT></A>. <br />
     
