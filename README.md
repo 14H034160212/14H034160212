@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qiming-bill-bao-773757166/)](https://www.linkedin.com/in/qiming-bill-bao-773757166/)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiming.bao@auckland.ac.nz)](mailto:qiming.bao@auckland.ac.nz)&nbsp;&nbsp;
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=t-PqsgcAAAAJ&hl=en)](https://scholar.google.com/citations?user=t-PqsgcAAAAJ&hl=en)&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=t-PqsgcAAAAJ)](https://scholar.google.com/citations?user=t-PqsgcAAAAJ&hl=en)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/qiming_bao)](https://twitter.com/qiming_bao)
 </p>
 </div>
