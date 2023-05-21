@@ -53,3 +53,8 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=14H034160212&show_icons=true&theme=radical" alt="Qiming Bao's GitHub stats"/>
 </p>
+
+<h4 align="center">Wekatime States(Since April 24, 2023)</h4>
+<div>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=14H034160212&langs_count=4&show_icons=true&locale=en&theme=nord&layout=compact&hide_title=true&hide_border=true" alt="14H034160212" /></p>
+</div>
