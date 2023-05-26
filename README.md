@@ -22,7 +22,7 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 <h4 align="center">Papers/Projects</h4>
 
 - [21 May 2023] Our paper (Qiming Bao, Alex Yuxuan Peng, Zhenyun Deng, Wanjun Zhong, Neset Tan, Nathan Young, Yang Chen, Yonghua Zhu, Michael Witbrock, Jiamou Liu) "Contrastive Learning with Logic-driven Data Augmentation for Logical Reasoning over Text" [<A href="https://arxiv.org/abs/2305.12599"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Strong-AI-Lab/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning"><FONT face="Bitstream Vera Sans">Source code</FONT></A>] [<A href="https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347"><FONT face="Bitstream Vera Sans">Leaderboard</FONT></A>].<br />
-- 
+
 - [10 April 2023] Our paper (Qianqian Qi, **Qiming Bao***, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock) "A Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge" has been accepted by <A href="https://openreview.net/group?id=ICLR.cc/2023/TinyPapers"><FONT face="Bitstream Vera Sans">ICLR-23 TinyPapers</FONT></A> [<A href="https://openreview.net/forum?id=hli7A0ioiS_"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>].<br />
   
 - [01 March 2023] Our paper (Neset Tan, Alex Peng, Joshua Bensemann, **Qiming Bao**, Tim Hartill, Mark Gahegan, and Michael Witbrock) "Input-length-shortening and text generation via attention values" has been accepted by <A href="https://www.emc2-ai.org/aaai-23"><FONT face="Bitstream Vera Sans">AAAI-EMC^2-23</FONT></A> [<A href="https://arxiv.org/abs/2303.07585"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>].<br />
