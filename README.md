@@ -39,8 +39,8 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 <h4 align="center">News</h4>
 
 - [13 April 2023] We submitted two pull requests to OpenAI/evals 
-        [<A href="https://github.com/openai/evals/pull/648"><FONT face="Bitstream Vera Sans">A Group of more Challenge Logical Reasoning Datasets</FONT></A>] 
-	[<A href="https://github.com/openai/evals/pull/651"><FONT face="Bitstream Vera Sans">A Larger Deep Multi-Step Deductive Reasoning Dataset</FONT></A>] <br />
+        [<A href="https://github.com/openai/evals/pull/648"><FONT face="Bitstream Vera Sans">A Group of more Challenge Logical Reasoning Datasets</FONT></A>] [ready for merge] <br /> 
+	[<A href="https://github.com/openai/evals/pull/651"><FONT face="Bitstream Vera Sans">A Larger Deep Multi-Step Deductive Reasoning Dataset</FONT></A>] [merged] <br />
 
 - [18 January 2023] We tested and listed the cases that GPT-3, ChatGPT and GPT-4 failed, including multi-step reasoning, logical equivalence, and logical reasoning to the spreadsheet created by Gary Marcus and Ernest Davis at NYU.
         [<A href="https://twitter.com/qiming_bao/status/1615311194931490818"><FONT face="Bitstream Vera Sans">Tweets Link for Multi-Step Reasoning and Logical Equivalence</FONT></A>] [<A href="https://twitter.com/qiming_bao/status/1625688954514333698"><FONT face="Bitstream Vera Sans">Tweets Link for Logical Reasoning Reading Comprehension</FONT></A>] [<A href="https://twitter.com/qiming_bao/status/1642067379319607296"><FONT face="Bitstream Vera Sans">Tweets Link for GPT-4 fails on Logical Reasoning Reading Comprehension</FONT></A>] [<A href="https://docs.google.com/spreadsheets/d/1kDSERnROv5FgHbVN8z_bXH9gak2IXRtoqz0nwhrviCw/edit#gid=1302320625"><FONT face="Bitstream Vera Sans">Spreadsheet Link</FONT></A>] [<A href="https://researchrabbit.typeform.com/llmerrors?typeform-source=www.linkedin.com"><FONT face="Bitstream Vera Sans">Submit your cases</FONT></A>]. <br />
