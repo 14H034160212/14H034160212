@@ -39,7 +39,7 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 <h4 align="center">News</h4>
 
 - [13 April 2023] We submitted two pull requests to OpenAI/evals 
-        [<A href="https://github.com/openai/evals/pull/648"><FONT face="Bitstream Vera Sans">A Group of more Challenge Logical Reasoning Datasets, ready for merge</FONT></A>]
+        [<A href="https://github.com/openai/evals/pull/648"><FONT face="Bitstream Vera Sans">A Group of more Challenge Logical Reasoning Datasets, merged</FONT></A>]
 	[<A href="https://github.com/openai/evals/pull/651"><FONT face="Bitstream Vera Sans">A Larger Deep Multi-Step Deductive Reasoning Dataset, merged</FONT></A>] <br />
 
 - [18 January 2023] We tested and listed the cases that GPT-3, ChatGPT and GPT-4 failed, including multi-step reasoning, logical equivalence, and logical reasoning to the spreadsheet created by Gary Marcus and Ernest Davis at NYU.
