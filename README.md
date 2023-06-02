@@ -21,7 +21,7 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 
 <h4 align="center">Papers/Projects</h4>
 
-- [03 June 2023] Our paper (Gaël Gendron, **Qiming Bao**, Michael Witbrock, Gillian Dobbie) "Large Language Models Are Not Abstract Reasoners" [<A href="https://arxiv.org/abs/2305.19555"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning"><FONT face="Bitstream Vera Sans">Source code and evaluation platform</FONT></A>].<br />
+- [31 May 2023] Our paper (Gaël Gendron, **Qiming Bao**, Michael Witbrock, Gillian Dobbie) "Large Language Models Are Not Abstract Reasoners" [<A href="https://arxiv.org/abs/2305.19555"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning"><FONT face="Bitstream Vera Sans">Source code and evaluation platform</FONT></A>].<br />
 
 - [21 May 2023] Our paper (**Qiming Bao**, Alex Yuxuan Peng, Zhenyun Deng, Wanjun Zhong, Neset Tan, Nathan Young, Yang Chen, Yonghua Zhu, Michael Witbrock, Jiamou Liu) "Contrastive Learning with Logic-driven Data Augmentation for Logical Reasoning over Text" [<A href="https://arxiv.org/abs/2305.12599"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Strong-AI-Lab/Logical-Equivalence-driven-AMR-Data-Augmentation-for-Representation-Learning"><FONT face="Bitstream Vera Sans">Source code</FONT></A>] [<A href="https://huggingface.co/qbao775/AMR-LE-DeBERTa-V2-XXLarge-Contraposition"><FONT face="Bitstream Vera Sans">Model weights</FONT></A>] [<A href="https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347"><FONT face="Bitstream Vera Sans">Leaderboard</FONT></A>].<br />
 
