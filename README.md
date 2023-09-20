@@ -21,6 +21,8 @@ Qiming is an AI engineer (Part-time) at <A href="https://xtracta.com/"><FONT fac
 
 <h4 align="center">Papers/Projects</h4>
 
+- [20 September 2023] Our paper (**Qiming Bao**, Juho Leinonen, Alex Peng, Wanjun Zhong, Tim Pistotti, Alice Huang, Paul Denny, Michael Witbrock and Jiamou Liu) "Exploring Self-Reinforcement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models" [<A href="http://arxiv.org/abs/2309.10444"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Strong-AI-Lab/Explanation-Generation"><FONT face="Bitstream Vera Sans">Source code</FONT></A>].<br />
+
 - [24 June 2023] Our paper (**Qiming Bao**, Gaël Gendron, Alex Peng, Neset Tan, Michael Witbrock, Jiamou Liu) "A Systematic Evaluation of Large Language Models on Out-of-Distribution Logical Reasoning Tasks" has been accepted by <A href="https://bigmodel.ai/llm-ijcai23"><FONT face="Bitstream Vera Sans">LLM@IJCAI'23</FONT></A>.
 
 - [24 June 2023] Our paper (**Qiming Bao**, Alex Peng, Zhenyun Deng, Wanjun Zhong, Gaël Gendron, Neşet Tan, Nathan Young, Yang Chen, Yonghua Zhu, Michael Witbrock and Jiamou Liu) "Enhancing Logical Reasoning of Large Language Models through Logic-Driven Data Augmentation" has been accepted by <A href="https://bigmodel.ai/llm-ijcai23"><FONT face="Bitstream Vera Sans">LLM@IJCAI'23</FONT></A>.
