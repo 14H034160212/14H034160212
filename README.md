@@ -11,7 +11,8 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=t-PqsgcAAAAJ)](https://scholar.google.com/citations?user=t-PqsgcAAAAJ&hl=en)&nbsp;&nbsp;
 [![DBLP](https://img.shields.io/badge/-DBLP-yellow?style=flat-square&logo=DBLP&logoColor=white&link=https://dblp.org/pid/126/9037-1.html)](https://dblp.org/pid/126/9037-1.html)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/qiming_bao)](https://twitter.com/qiming_bao)&nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/-CV-brown?style=flat-square&logo=CV&logoColor=white&link=https://14h034160212.github.io/cv.html)](https://14h034160212.github.io/cv.html)
+[![CV](https://img.shields.io/badge/-CV-brown?style=flat-square&logo=CV&logoColor=white&link=https://14h034160212.github.io/cv.html)](https://14h034160212.github.io/cv.html)&nbsp;&nbsp;
+[![简历](https://img.shields.io/badge/-CV-brown?style=flat-square&logo=CV&logoColor=white&link=https://14h034160212.github.io/包启明.pdf)](https://14h034160212.github.io/包启明.pdf)
 </p>
 </div>
 
