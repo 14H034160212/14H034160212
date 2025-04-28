@@ -4,7 +4,7 @@
 
 <p align="center">
 
-[![Homepage](https://img.shields.io/badge/-Homepage-purple?style=flat-square&logo=homepage&logoColor=white&link=https://14h034160212.github.io/)](https://14h034160212.github.io/)&nbsp;&nbsp;
+<!--[![Homepage](https://img.shields.io/badge/-Homepage-purple?style=flat-square&logo=homepage&logoColor=white&link=https://14h034160212.github.io/)](https://14h034160212.github.io/)&nbsp;&nbsp;-->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qiming-bill-bao-773757166/)](https://www.linkedin.com/in/qiming-bill-bao-773757166/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/14H034160212)](https://github.com/14H034160212)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiming.bao@auckland.ac.nz)](mailto:qiming.bao@auckland.ac.nz)&nbsp;&nbsp;
