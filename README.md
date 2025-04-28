@@ -7,7 +7,7 @@
 <!--[![Homepage](https://img.shields.io/badge/-Homepage-purple?style=flat-square&logo=homepage&logoColor=white&link=https://14h034160212.github.io/)](https://14h034160212.github.io/)&nbsp;&nbsp;-->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qiming-bill-bao-773757166/)](https://www.linkedin.com/in/qiming-bill-bao-773757166/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/14H034160212)](https://github.com/14H034160212)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiming.bao@auckland.ac.nz)](mailto:qiming.bao@auckland.ac.nz)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bqmbill714@gmail.com)](mailto:bqmbill714@gmail.com)&nbsp;&nbsp;
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=t-PqsgcAAAAJ)](https://scholar.google.com/citations?user=t-PqsgcAAAAJ&hl=en)&nbsp;&nbsp;
 [![DBLP](https://img.shields.io/badge/-DBLP-yellow?style=flat-square&logo=DBLP&logoColor=white&link=https://dblp.org/pid/126/9037-1.html)](https://dblp.org/pid/126/9037-1.html)&nbsp;&nbsp;
 [![OCRiD](https://img.shields.io/badge/-ORCID-green?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/my-orcid?orcid=0000-0002-1000-7383)](https://orcid.org/my-orcid?orcid=0000-0002-1000-7383)&nbsp;&nbsp;
