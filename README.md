@@ -27,7 +27,7 @@ Qiming Bao is a computer science Ph.D. graduated from the <A href="https://www.a
 
 <h4 align="center">Papers/Projects</h4>
 
-- [01 May 2025] My PhD Thesis <A href="https://eaai-conf.github.io/year/eaai-25.html"><FONT face="Bitstream Vera Sans">Developing And Assessing Language Models For Logical Reasoning Over Natural Language</FONT></A> has been archived to the General Library of University of Auckland.
+- [01 May 2025] My PhD Thesis <A href="https://hdl.handle.net/2292/71735"><FONT face="Bitstream Vera Sans">Developing And Assessing Language Models For Logical Reasoning Over Natural Language</FONT></A> has been archived to the General Library of University of Auckland.
 
 - [09 December 2024] Our paper (**Qiming Bao**, Juho Leinonen, Alex Peng, Wanjun Zhong, Timothy Pistotti, Alice Huang, Paul Denny, Michael Witbrock and Jiamou Liu) "Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models" has been accepted by <A href="https://eaai-conf.github.io/year/eaai-25.html"><FONT face="Bitstream Vera Sans">Proceedings of the AAAI Conference on Artificial Intelligence (2025)</FONT></A> [<A href="https://ojs.aaai.org/index.php/AAAI/article/view/35164"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Strong-AI-Lab/Explanation-Generation"><FONT face="Bitstream Vera Sans">Source code</FONT></A>].<br />
 
