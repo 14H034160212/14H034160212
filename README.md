@@ -86,7 +86,7 @@ Qiming Bao is a computer science Ph.D. graduated from the <A href="https://www.a
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=14H034160212&show_icons=true&theme=radical" 
+    src="https://github-readme-stats-qiming.vercel.app/api?username=14H034160212&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
   />
 </p>
