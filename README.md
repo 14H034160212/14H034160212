@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/14H034160212)](https://github.com/14H034160212)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bqmbill714@gmail.com)](mailto:bqmbill714@gmail.com)&nbsp;&nbsp;
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=t-PqsgcAAAAJ)](https://scholar.google.com/citations?user=t-PqsgcAAAAJ&hl=en)&nbsp;&nbsp;
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Qiming-Bao)](https://www.researchgate.net/profile/Qiming-Bao)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Qiming-Bao)](https://www.researchgate.net/profile/Qiming-Bao)&nbsp;&nbsp;
 [![DBLP](https://img.shields.io/badge/-DBLP-yellow?style=flat-square&logo=DBLP&logoColor=white&link=https://dblp.org/pid/126/9037-1.html)](https://dblp.org/pid/126/9037-1.html)&nbsp;&nbsp;
 [![OCRiD](https://img.shields.io/badge/-ORCID-green?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/my-orcid?orcid=0000-0002-1000-7383)](https://orcid.org/my-orcid?orcid=0000-0002-1000-7383)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=X&logoColor=white&link=https://x.com/qiming_bao)](https://x.com/qiming_bao)&nbsp;&nbsp;
