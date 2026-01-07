@@ -84,13 +84,13 @@ Qiming Bao is a computer science Ph.D. graduated from the <A href="https://www.a
 
 - [09 January 2022] One of the contributers to an open source tool for simplifying bibtex called "SimBiber" [<A href="https://github.com/MLNLP-World/SimBiber"><FONT face="Bitstream Vera Sans">GitHub link</FONT></A>]. <br />
 
-
+<!--
 <p align="center">
   <img 
     src="https://github-readme-stats-qiming.vercel.app/api?username=14H034160212&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
   />
-</p>
+</p>-->
 
 <!--
 <h4 align="center">Wekatime States(Since April 24, 2023)</h4>
