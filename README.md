@@ -14,7 +14,7 @@
 [![OCRiD](https://img.shields.io/badge/-ORCID-green?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/my-orcid?orcid=0000-0002-1000-7383)](https://orcid.org/my-orcid?orcid=0000-0002-1000-7383)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=X&logoColor=white&link=https://x.com/qiming_bao)](https://x.com/qiming_bao)&nbsp;&nbsp;
 [![CV](https://img.shields.io/badge/-CV-brown?style=flat-square&logo=CV&logoColor=white&link=https://14h034160212.github.io/cv.html)](https://14h034160212.github.io/cv.html)&nbsp;&nbsp;
-[![简历](https://img.shields.io/badge/-简历-purple?style=flat-square&logo=简历&logoColor=white&link=https://14h034160212.github.io/包启明_中文算法.pdf)](https://14h034160212.github.io/包启明_中文算法.pdf)
+<!--[![简历](https://img.shields.io/badge/-简历-purple?style=flat-square&logo=简历&logoColor=white&link=https://14h034160212.github.io/包启明_中文算法.pdf)](https://14h034160212.github.io/包启明_中文算法.pdf)-->
 </p>
 </div>
 
