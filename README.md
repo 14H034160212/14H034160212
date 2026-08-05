@@ -34,7 +34,7 @@ Qiming has given public guest talks and academic visit at <A href="https://youtu
 
 <!-- - [09 July 2026] **Qiming Bao** achieved 1st place in Track 2 (MER-FG: Fine-grained Emotion Recognition) of the <A href="https://www.codabench.org/competitions/17196/#/results-tab"><FONT face="Bitstream Vera Sans">MER2026 Challenge</FONT></A>, organized in conjunction with ACM Multimedia 2026.-->
 
-- [04 August 2026] **Qiming Bao**, Neset Tan, Siyuan Wang, Michael Witbrock, Mark Gahegan achieved Double Winner (1st Place in Subtasks 1 and 2), <A href="https://sciclaimeval.github.io/"><FONT face="Bitstream Vera Sans">NTCIR-19 SciClaimEval Shared Task</FONT></A>, Team SciTrue, 2026.
+- [04 August 2026] **Qiming Bao**, Neset Tan, et al., achieved Double Winner (1st Place in Subtasks 1 and 2), <A href="https://sciclaimeval.github.io/"><FONT face="Bitstream Vera Sans">NTCIR-19 SciClaimEval Shared Task</FONT></A>, Team SciTrue, 2026.
 
 - [01 May 2025] My PhD Thesis <A href="https://researchspace.auckland.ac.nz/items/c137d667-49c5-4fa4-9da0-c2e74e3d426f"><FONT face="Bitstream Vera Sans">Developing And Assessing Language Models For Logical Reasoning Over Natural Language</FONT></A> has been archived to the General Library of University of Auckland.
 
