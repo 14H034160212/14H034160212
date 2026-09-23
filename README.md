@@ -32,6 +32,8 @@ Qiming has given public guest talks and academic visit at <A href="https://youtu
 
 <h4 align="center">Papers/Projects</h4>
 
+- [23 September 2026] A reasoning dataset submitted by **Qiming Bao** has been included in the <A href="https://arxiv.org/abs/2501.14249"><FONT face="Bitstream Vera Sans">Human Last Exam</FONT> Benchmark</A>.
+
 <!-- - [09 July 2026] **Qiming Bao** achieved 1st place in Track 2 (MER-FG: Fine-grained Emotion Recognition) of the <A href="https://www.codabench.org/competitions/17196/#/results-tab"><FONT face="Bitstream Vera Sans">MER2026 Challenge</FONT></A>, organized in conjunction with ACM Multimedia 2026.-->
 
 - [04 August 2026] **Qiming Bao**, Neset Tan, et al., achieved Double Winner (1st Place in Subtasks 1 and 2), <A href="https://sciclaimeval.github.io/"><FONT face="Bitstream Vera Sans">NTCIR-19 SciClaimEval Shared Task</FONT></A>, Team SciTrue, 2026 [<A href="https://arxiv.org/abs/2609.00654"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>].
