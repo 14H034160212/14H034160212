@@ -32,6 +32,8 @@ Qiming has given public guest talks and academic visit at <A href="https://youtu
 
 <h4 align="center">Papers/Projects</h4>
 
+- [28 October 2026] Our paper (**Qiming Bao**, Sherry J. H. Feng, Kim Chester Eugenio, Meng Fon) "Surrogate Substitution Preserves PHI Detectability: A Multi-Detector Equivalence Study" has been accepted by <A href="https://ml4h.ahli.cc/"><FONT face="Bitstream Vera Sans">Proceedings of Machine Learning Research (PMLR) (2026)</FONT></A> [<A href="http://arxiv.org/abs/2608.03172"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Custodian-Labs/guardian-layer-phi-benchmark"><FONT face="Bitstream Vera Sans">Source code</FONT></A>].<br />
+
 - [01 October 2026] A reasoning dataset submitted by **Qiming Bao** has been included in the <A href="https://arxiv.org/abs/2606.05405"><FONT face="Bitstream Vera Sans">Agents' Last Exam</FONT> Benchmark</A>.
 
 - [23 September 2026] A reasoning dataset submitted by **Qiming Bao** has been included in the <A href="https://arxiv.org/abs/2501.14249"><FONT face="Bitstream Vera Sans">Humanity's Last Exam</FONT> Benchmark</A>.
