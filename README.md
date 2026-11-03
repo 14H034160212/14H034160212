@@ -31,6 +31,7 @@ Qiming has given public guest talks and academic visit at <A href="https://youtu
 <!--**I am open to looking for a full-time job opportunity related to Post-doc Researcher, Machine Learning/AI Engineer. I am passionate and skilled in data-driven projects, especially on Natural Language Processing, with more than three years of work and project experience. I can bring state-of-the-art ideas and technology to your lab/company.** -->
 
 <h4 align="center">Papers/Projects</h4>
+
 - [03 November 2026] **Qiming Bao** has been awarded an <A href="https://openmined.org/research/grants/"><FONT face="Bitstream Vera Sans">OpenMined Research Grant — Ensembles & Routing</FONT></A> (2026–2027), providing US$2,000 in research funding and up to US$5,000 in compute support for research on model ensembles, routing, and composition.
 
 - [28 October 2026] Our paper (**Qiming Bao**, Sherry J. H. Feng, Kim Chester Eugenio, Meng Fon) "Surrogate Substitution Preserves PHI Detectability: A Multi-Detector Equivalence Study" has been accepted by <A href="https://ml4h.ahli.cc/"><FONT face="Bitstream Vera Sans">Proceedings of Machine Learning Research (PMLR) (2026)</FONT></A> [<A href="http://arxiv.org/abs/2608.03172"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Custodian-Labs/guardian-layer-phi-benchmark"><FONT face="Bitstream Vera Sans">Source code</FONT></A>].<br />
