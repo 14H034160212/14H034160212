@@ -32,6 +32,8 @@ Qiming has given public guest talks and academic visit at <A href="https://youtu
 
 <h4 align="center">Papers/Projects</h4>
 
+- [07 November 2026] A benchmark task contributed by **Qiming Bao** has been merged into <A href="https://github.com/harbor-framework/terminal-bench-science/pull/2141"><FONT face="Bitstream Vera Sans">Terminal-Bench Science 2.0</FONT></A>.
+
 - [03 November 2026] **Qiming Bao** has been awarded an <A href="https://openmined.org/research/grants/"><FONT face="Bitstream Vera Sans">OpenMined Research Grant — Ensembles & Routing</FONT></A> (2026–2027), providing US$2,000 in research funding and up to US$5,000 in compute support for research on model ensembles, routing, and composition.
 
 - [28 October 2026] Our paper (**Qiming Bao**, Sherry J. H. Feng, Kim Chester Eugenio, Meng Fon) "Surrogate Substitution Preserves PHI Detectability: A Multi-Detector Equivalence Study" has been accepted by <A href="https://ml4h.ahli.cc/"><FONT face="Bitstream Vera Sans">Proceedings of Machine Learning Research (PMLR) (2026)</FONT></A> [<A href="http://arxiv.org/abs/2608.03172"><FONT face="Bitstream Vera Sans">Paper link</FONT></A>] [<A href="https://github.com/Custodian-Labs/guardian-layer-phi-benchmark"><FONT face="Bitstream Vera Sans">Source code</FONT></A>].<br />
